@@ -24,7 +24,7 @@ The IPL Match Prediction project leverages data science techniques to analyze an
 ## Key Findings
 - Toss decisions have a moderate influence on match results.
 - Venue and player performance significantly impact match outcomes.
-- Prediction accuracy of the best-performing model is **XX%**.
+- Prediction accuracy of the best-performing model is **80%**.
 
 ## Technologies Used
 - **Programming Language**: Python
